@@ -70,6 +70,7 @@ st.markdown("<h1 style='text-align: center; font-size: 40px; font-weight: bold; 
 st.divider() # for a divider to separate sections
 
 
+
 # Navigation Options
 pages = {
     "Home": "home",
