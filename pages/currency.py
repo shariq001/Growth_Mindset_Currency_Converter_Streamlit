@@ -47,7 +47,7 @@ with col4:
     # getting the symbol of currency based on the currency2 user choosed
 
 # My Api Key
-API_KEY = "45e040ceb7e3df1342593a4b"
+API_KEY = st.secrets["api"]["key"]
 
 
 # url for getting the api requests and also the currencies exchange rate
